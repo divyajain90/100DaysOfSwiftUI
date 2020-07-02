@@ -14,6 +14,7 @@
 		EE024CDC24AE1FAF0044460A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE024CDB24AE1FAF0044460A /* Preview Assets.xcassets */; };
 		EE024CDF24AE1FAF0044460A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE024CDD24AE1FAF0044460A /* LaunchScreen.storyboard */; };
 		EE024CEA24AE1FAF0044460A /* SwiftUILearningTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE024CE924AE1FAF0044460A /* SwiftUILearningTests.swift */; };
+		EE024D0924AE67520044460A /* TextFieldUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE024D0824AE67520044460A /* TextFieldUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		EE024CE524AE1FAF0044460A /* SwiftUILearningTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUILearningTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE024CE924AE1FAF0044460A /* SwiftUILearningTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILearningTests.swift; sourceTree = "<group>"; };
 		EE024CEB24AE1FAF0044460A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE024D0824AE67520044460A /* TextFieldUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				EE024CD224AE1FAA0044460A /* AppDelegate.swift */,
 				EE024CD424AE1FAA0044460A /* SceneDelegate.swift */,
+				EE024D0824AE67520044460A /* TextFieldUI.swift */,
 				EE024CD624AE1FAA0044460A /* ContentView.swift */,
 				EE024CD824AE1FAF0044460A /* Assets.xcassets */,
 				EE024CDD24AE1FAF0044460A /* LaunchScreen.storyboard */,
@@ -211,6 +214,7 @@
 				EE024CD324AE1FAA0044460A /* AppDelegate.swift in Sources */,
 				EE024CD524AE1FAA0044460A /* SceneDelegate.swift in Sources */,
 				EE024CD724AE1FAA0044460A /* ContentView.swift in Sources */,
+				EE024D0924AE67520044460A /* TextFieldUI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
